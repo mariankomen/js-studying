@@ -1,0 +1,2 @@
+let c = prompt("hello_");
+console.log(c);
